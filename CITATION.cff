@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Frommann
+    given-names: Olaf
+orcid: "https://orcid.org/0009-0004-2614-4392"
+title: "Thin-Airfoil Theory (TAT) - Deep Documentation of a Teaching C++ Implementation"
+version: 1.0.0
+date-released: 2026-01-08
+doi: 10.5281/zenodo.18262400
+url: "https://github.com/of33/TAT"
