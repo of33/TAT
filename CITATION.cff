@@ -5,7 +5,7 @@ authors:
     given-names: Olaf
 orcid: "https://orcid.org/0009-0004-2614-4392"
 title: "Thin-Airfoil Theory (TAT) - Deep Documentation of a Teaching C++ Implementation"
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-01-08
-doi: 10.5281/zenodo.18262400
+doi: 10.5281/zenodo.18262399
 url: "https://github.com/of33/TAT"
