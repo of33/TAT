@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.1] - 2026-01-19
+### Fixed
+* Wrong revision number in documents and small typo in this file
+
+
 ## [1.1.0] - 2026-01-18
 ### Added
 * Short history section in documentation
